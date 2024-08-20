@@ -1,1 +1,1 @@
-# ComputerScience2Projects
+# ComputerScienceClass Projects
