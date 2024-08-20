@@ -1,0 +1,81 @@
+body {
+    font-family: "Rubik", sans-serif;
+}
+#topBar {
+    display: flex;
+    background-color: #3f000b;
+    color: white;
+    align-items: center;
+    
+}
+#secondNavBar {
+    display: flex;
+    color: #3f000b;
+    align-items: center;
+}
+#secondMegaDiv {
+    margin-left: 4.5%;
+}
+#searchBox {
+    margin-left: 6%;
+    border-bottom: 3px solid #98041c;
+}
+#searchImage {
+    margin-left: 75%;
+    
+}
+.secondBarItems:hover {
+    border-bottom: 3px solid #98041c;
+}
+div {
+    padding: 5px;
+    display: flex;
+}
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+a {
+    color: white;
+} 
+.underline {
+    text-decoration: underline;
+}
+.topNavImage {
+    width: 15px;
+
+}
+#topImagesDiv {
+   margin-left: 24%; 
+   justify-content: center;
+   align-items: center;
+}
+#shippingDiv {
+    margin-left: 8%;
+    display: flex;
+}
+#ad {
+    width: 100%;
+}
+#brandIntro {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+#brandLink {
+    color: #98041c;
+}
+#candyContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
